@@ -1,0 +1,7 @@
+*.env
+*.log
+*.xlsx
+*.venv
+*.toml
+*.lock
+.python-version
